@@ -9,4 +9,4 @@
 - Luego hacemos el mensaje del commit "git commit -m "MENSAJE" ". Ya tenemos el cambio en estado "STAGED".
 - Ahora, usamos el comando "git push" para subir nuestros cambios al repositorio.
 ------------------------------
-Creado por : Maika Nuñez Olmos 
+Creado por : Maika Nuñez Olmos - La mejor de Andalucía
