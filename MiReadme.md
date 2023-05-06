@@ -10,3 +10,6 @@
 - Ahora, usamos el comando "git push" para subir nuestros cambios al repositorio.
 ------------------------------
 Creado por : Maika Nuñez Olmos - La mejor de Andalucía
+
+
+Update: NO SE HA SUBIDO LA CARPETA DE FOTOS :( 
